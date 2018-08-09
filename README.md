@@ -1,2 +1,0 @@
-# Factorial
-Java - NetBeans
